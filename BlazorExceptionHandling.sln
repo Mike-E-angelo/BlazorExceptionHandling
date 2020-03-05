@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorExceptionHandling", "BlazorExceptionHandling\BlazorExceptionHandling.csproj", "{9AA2ACDB-38A3-48E2-B4B2-BE31F59199A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Components\Components.csproj", "{EF5B9E72-5533-480A-82EF-593E806036B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA2ACDB-38A3-48E2-B4B2-BE31F59199A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA2ACDB-38A3-48E2-B4B2-BE31F59199A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA2ACDB-38A3-48E2-B4B2-BE31F59199A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA2ACDB-38A3-48E2-B4B2-BE31F59199A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5B9E72-5533-480A-82EF-593E806036B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5B9E72-5533-480A-82EF-593E806036B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5B9E72-5533-480A-82EF-593E806036B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5B9E72-5533-480A-82EF-593E806036B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B814F831-4E4B-4A6A-A0DF-3C71B6D94B29}
+	EndGlobalSection
+EndGlobal
